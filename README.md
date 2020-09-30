@@ -1,3 +1,4 @@
+# Amazing Project on credit-card-approval by tanmeetsingh
 # Predicting-credit-card-approval
 In this project I have made a machine learning model to predict if a credit card application will get approved or not using Supervised Learning with scikit-learn and Data Manipulation with pandas.
 
